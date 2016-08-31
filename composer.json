@@ -1,0 +1,25 @@
+{
+  "name": "eenetrecore/form-builder",
+  "license": "proprietary",
+  "type": "library",
+  "description": "PHP Form Builder help for each day",
+  "homepage": "https://entrecore.com/",
+  "autoload": {
+    "psr-4": {
+      "FormBuilder\\": "./src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "FormBuilder\\": "./tests"
+    }
+  },
+  "require": {
+    "php": "^7.0"
+  },
+  "require-dev": {
+    "opsbears/piccolo-dev-tools": "^1.0",
+    "opsbears/coverage-reporter": "^0.0.3"
+  },
+  "minimum-stability": "dev"
+}

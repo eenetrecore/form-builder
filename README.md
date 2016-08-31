@@ -1,6 +1,6 @@
 #PHP FormBuilder
 
-Form Builder should eliminate the day to day needs to work on forms. It was bui
+Form Builder should eliminate the day to day needs to work on forms. 
 
 ## Licence
 
